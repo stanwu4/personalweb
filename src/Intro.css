@@ -1,0 +1,83 @@
+.Intro {
+    background-color: transparent;
+    text-align: center;
+}
+
+.Intro h1 {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 30px;
+    color: #333;
+}
+
+.Intro img{
+text-align: center;
+width: 40%;
+height: 40%;
+border-radius:50%;
+object-fit: cover;
+border-radius: 100px;
+
+}
+
+.Intro logo{
+font-size: 30px;
+font-weight: bold;
+}
+
+.Intro p{
+    text-align: left;
+    font-size: 16px;
+    color:black;
+    font : arial;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.Intro header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Intro nav{
+    display: flex;
+}
+
+.Intro .socials img{
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    border-radius: 0%;
+    object-fit: cover;
+    border-radius: 10%;
+    transition: transform 0.3s ease;  /* Smooth transition for scaling */
+}
+
+.Intro .socials a:hover img {
+    transform: scale(1.5);  /* Slightly increase the size of the image on hover */
+    transition: transform 0.3s ease;  /* Smooth transition for scaling */
+}
+
+
+.Intro .socials{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.Intro nav a{
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    font: arial;
+}
+
+.Intro nav a:hover{
+    font-size: 22px;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+

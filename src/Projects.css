@@ -1,0 +1,32 @@
+.Projects{
+    padding: 0;
+    background-color: transparent;
+    text-align: left;
+    font:arial;   
+}
+
+.Projects h1{
+    text-align: center;
+    font-size: 36px;
+    color:black;
+    font: arial;
+}
+
+.Projects h2{
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: left;
+    font-size: 24px;
+    color:black;
+    font: arial;
+}
+
+.Projects p{
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: left;
+    font-size: 18px;
+    color:black;
+    font: arial;
+    padding-bottom: 40px;
+}

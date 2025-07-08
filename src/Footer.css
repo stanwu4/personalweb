@@ -1,0 +1,19 @@
+.Footer link{
+    display:flex;
+    gap: 10px;
+    flex-direction: row;
+    justify-content:left;
+    background: white;
+  }
+  
+.Footer a{
+    padding-bottom: 1px;
+    text-decoration: none;
+    color: black;
+  }
+  
+.Footer a:hover {
+  font-size: 22px;
+  font-weight: bold;
+  transition: all 0.5s;
+  }

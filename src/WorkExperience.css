@@ -1,0 +1,51 @@
+.WorkExperience{
+    padding: 0;
+    background-color: transparent;
+    align-items: center;
+    text-align: left;
+    display:flex;
+    flex-direction: column;
+    font:arial;
+}
+
+.WorkExperience h1{
+    text-align: center;
+    font-size: 36px;
+    color:black;
+    font:arial;
+}
+
+.WorkExperience h2{
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: left;
+    font-size: 24px;
+    color:black;
+    font:arial;
+}
+
+.WorkExperience h3{
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: left;
+    font-size: 16px;
+    color:black;
+    font:arial;
+}
+
+
+.WorkExperience p{
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: left;
+    font-size: 18px;
+    color:black;
+    font:arial;
+    padding-bottom: 40px;
+}
+
+.WorkExperience img{
+    align-items: center;
+    object-fit: cover;
+    border-radius: 20px;
+}
