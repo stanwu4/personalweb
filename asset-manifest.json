@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/personalweb/static/css/main.b151c38c.css",
+    "main.js": "/personalweb/static/js/main.a7ec4c3f.js",
+    "static/js/453.ed3810f9.chunk.js": "/personalweb/static/js/453.ed3810f9.chunk.js",
+    "static/media/profile.jpeg": "/personalweb/static/media/profile.7b0dea9f9d210b7522a5.jpeg",
+    "static/media/ECCOMLogo.jpeg": "/personalweb/static/media/ECCOMLogo.a8a4523c87d7cb46b1a1.jpeg",
+    "static/media/github.svg": "/personalweb/static/media/github.4eb84d369705e38b38a0e4210f3e232b.svg",
+    "static/media/gmail.svg": "/personalweb/static/media/gmail.cb7e0ce7b746bf010d61b58da3347406.svg",
+    "static/media/linkedin.svg": "/personalweb/static/media/linkedin.f9c36e48ba814d50014eb9b5ef684812.svg",
+    "index.html": "/personalweb/index.html",
+    "main.b151c38c.css.map": "/personalweb/static/css/main.b151c38c.css.map",
+    "main.a7ec4c3f.js.map": "/personalweb/static/js/main.a7ec4c3f.js.map",
+    "453.ed3810f9.chunk.js.map": "/personalweb/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b151c38c.css",
+    "static/js/main.a7ec4c3f.js"
+  ]
+}
